@@ -1,5 +1,5 @@
-The .py files contain well-formatted code cells but no execution results.
-The .ipynb files contain execution results but lose the code cell formatting.
+The .py file contains well-formatted code cells but no execution results.
+The .ipynb file contains execution results but loses the code cell formatting.
 Jack Sprat could eat no fat;
 his wife could eat no lean.
 And so between the two of them,
